@@ -16,6 +16,11 @@
 
 **Author(s)** Representative MattSixtyNin
 
+
+
+
+
+
 <div align="center">
 
 ---
@@ -42,6 +47,9 @@ a. Should any part of this Act be struck down and/or declared unenforceable, the
 
 a. This Act shall be enforced by all law enforcement agencies, the National Guard, and the courts.
 
+
+
+
 ---
 <div align="center">
 
@@ -55,9 +63,13 @@ a. For the purposes of this act, “citizens” shall mean anyone other than law
 
 b. For the purposes of this act, “law enforcement” shall encompass any and all state actors with the power to arrest, as well as members of the National Guard, acting in official capacity.
 
-c. For the purposes of this act, "property owners" shall mean the owner of a property as defined by the [Bureau of Land Management](https://trello.com/b/v2fxXXhn/land-management-database) while they are the premesis of their claimed land.
+c. For the purposes of this act, "property owners" shall mean the owner of a property as defined by the [Bureau of Land Management](https://trello.com/b/v2fxXXhn/land-management-database) while they are the premesis of their claimed land. For government buildings, the property owner shall be the highest ranking executive official related to the use of the building.
 
-d. For the purposes of this act, designees of property owners shall carry the same authority and prividges as the property owner as perscribed within this piece of legislation.
+d. For the purposes of this act, designees of property owners shall carry the same authority and prividges as the property owner as perscribed within this piece of legislation. 
+
+
+
+
 
 ---
 <div align="center">
@@ -69,3 +81,23 @@ AMENDMENTS
 ---
 
 a. Chapter Four, §18 of the Firestone Criminal Code will be amended to state, “Citizens and law enforcement officers lawfully engaged in a use of force pursuant to the Force Liability Defense Act and/or the Private Property Defense Act shall have immunity to civil and criminal liability as an affirmative defense.”
+
+
+
+
+
+
+---
+<div align="center">
+
+## <b>CHAPTER THREE</b>
+AUTHORITY OVER PROPERTY
+</div>
+
+---
+
+a. Property Owners and the designees thereof are permitted to openly carry and brandish CFL firearms, as long as they are lowered and aimed at the ground during times when the use of lethal force is not required.
+
+b. Property Owners and the designees thereof are permitted to regulate the driving taking place on property, and may permit abnorbal conduct such as burnouts, and illegal parking. Such vehicles taking part in activities permitted by the property owner are exempt from recieving a citation from law enforcement for doing so. 
+
+c. Property Owners and the designees thereof are permitted to remove tresspassed citizens from the property using non-lethal force
