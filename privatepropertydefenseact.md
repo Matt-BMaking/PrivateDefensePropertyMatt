@@ -96,15 +96,14 @@ AUTHORITY OVER PROPERTY
 
 ---
 
-a. Property Owners and the designees thereof are permitted to openly carry and brandish CFL firearms, as long as they are lowered and aimed at the ground during times when the use of lethal force is not required.
+a. Property Owners and the designees thereof are permitted to regulate the driving taking place on property, and may permit abnorbal conduct such as burnouts, and illegal parking. Such vehicles taking part in activities permitted by the property owner are exempt from recieving a citation from law enforcement for doing so. 
 
-b. Property Owners and the designees thereof are permitted to regulate the driving taking place on property, and may permit abnorbal conduct such as burnouts, and illegal parking. Such vehicles taking part in activities permitted by the property owner are exempt from recieving a citation from law enforcement for doing so. 
+b. Property Owners and the designees thereof are permitted to remove tresspassed citizens from the property using non-lethal force.
 
-c. Property Owners and the designees thereof are permitted to remove tresspassed citizens from the property using non-lethal force.
+c. Property Owners and the designees thereof are permitted to remove and tresspass any citizen from their property for any period of time desired by the property owner.
 
-d. Property Owners and the designees thereof are permitted to remove and tresspass any citizen from their property for any period of time desired by the property owner.
+d. Property Owners and the designees thereof reserve the right to restrict the possession of firearms within their property. 
 
-e. Property Owners and the designees thereof reserve the right to restrict the possession of firearms within their property. 
+e. Property Owners and the designees thereof reserve the ability to create rules and regulations surrounding the activity on their property as long as they are not discriminatory on the basis of race, gender, nationality, or ethnicity.
 
-f. Property Owners and the designees thereof reserve the ability to create rules and regulations surrounding the activity on their property as long as they are not discriminatory on the basis of race, gender, nationality, or ethnicity.
-
+f. 
