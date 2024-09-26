@@ -80,7 +80,10 @@ AMENDMENTS
 
 ---
 
-a. Chapter Four, §18 of the Firestone Criminal Code will be amended to state, “Citizens and law enforcement officers lawfully engaged in a use of force pursuant to the Force Liability Defense Act and/or the Private Property Defense Act shall have immunity to civil and criminal liability as an affirmative defense.”
+a. Chapter Four, §18 of the Firestone Criminal Code currently states, “Citizens and law enforcement officers lawfully engaged in a use of force pursuant to the Force Liability Defense Act shall have immunity to civil and criminal liability as an affirmative defense.”
+
+
+b. Chapter Four, §18 of the Firestone Criminal Code will be amended to state, “Citizens and law enforcement officers lawfully engaged in a use of force pursuant to the Force Liability Defense Act **and/or the Private Property Defense Act** shall have immunity to civil and criminal liability as an affirmative defense.”
 
 
 
@@ -106,4 +109,4 @@ d. Property Owners and the designees thereof reserve the right to restrict the p
 
 e. Property Owners and the designees thereof reserve the ability to create rules and regulations surrounding the activity on their property as long as they are not discriminatory on the basis of race, gender, nationality, or ethnicity.
 
-f. 
+f. Property Owners and the designees thereof reserve the ability to request Law Enforcement to leave their property UNLESS the officer is participating in an active investigation or has probable cause.
