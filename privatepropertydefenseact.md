@@ -29,6 +29,8 @@
 
 **to extend the rights of property owners to defend their property; to extend the rights property owners have on their property**
 
+---
+
 </div>
 
 **SECTION 1.**
