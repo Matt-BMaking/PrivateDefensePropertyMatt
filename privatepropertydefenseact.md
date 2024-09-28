@@ -111,4 +111,4 @@ d. Property Owners and the designees thereof reserve the right to restrict the p
 
 e. Property Owners and the designees thereof reserve the ability to create rules and regulations surrounding the activity on their property as long as they are not discriminatory on the basis of race, gender, nationality, or ethnicity.
 
-f. Property Owners and the designees thereof reserve the ability to request Law Enforcement to leave their property UNLESS the officer is participating in an active investigation or has probable cause.
+f. Property Owners and the designees thereof reserve the ability to request Law Enforcement to leave their property when the officer has no lawful or justifiable reason to be on property.
