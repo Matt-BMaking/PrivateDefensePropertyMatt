@@ -113,6 +113,8 @@ e. Property Owners and the designees thereof reserve the ability to create rules
 
 f. Property Owners and the designees thereof reserve the ability to request Law Enforcement to leave their property when the officer has no lawful or justifiable reason to be on the property.
 
+g. Property Owners and the designees thereof are permitted to brandish firearms in a non-threatening manner as long as they do not pose a threat to public safety.
+
 
 ---
 <div align="center">
@@ -128,4 +130,4 @@ a. Law Enforcement reserves the right to limit access and/or overrule any permis
 - The officer is a member of ESU and is partaking in an active protection operation as defined by the [Executive Security Unit Act 2022](https://forums.stateoffirestone.com/t/executive-security-unit-act-2022/23843)
 - The officer has the authority to be on property given by other legislation in effect.
 
-b. Law Enforcement 
+b. Law Enforcement reserves the ability to order Property Owners and the designees thereof to holster their firearms and/or any weapons they are brandishing to preserve public safety if the officer deems there is a reasonable threat that their weapons may be used negligently. 
