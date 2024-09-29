@@ -8,13 +8,7 @@
  
  </div>
  
------
 
-**Chief Sponsor(s):** Representative MattSixtyNin
- 
-**Co-Sponsor(s):** 
-
-**Author(s)** Representative MattSixtyNin
 
 
 
@@ -131,3 +125,11 @@ a. Law Enforcement reserves the right to limit access and/or overrule any permis
 - The officer has the authority to be on property given by other legislation in effect.
 
 b. Law Enforcement reserves the ability to order Property Owners and the designees thereof to holster their firearms and/or any weapons they are brandishing to preserve public safety if the officer deems there is a reasonable threat that their weapons may be used negligently. 
+
+-----
+
+**Chief Sponsor(s):** Representative MattSixtyNin
+ 
+**Co-Sponsor(s):** 
+
+**Author(s):** Representative MattSixtyNin
