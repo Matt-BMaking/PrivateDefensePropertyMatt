@@ -61,9 +61,9 @@ DEFINITIONS
 
 ---
 
-a. For the purposes of this act, “citizens” shall mean anyone other than law enforcement officers acting in official capacity.
+a. For the purposes of this act, “citizens” shall mean anyone other than law enforcement officers acting in an official capacity.
 
-b. For the purposes of this act, “law enforcement” shall encompass any and all state actors with the power to arrest, as well as members of the National Guard, acting in official capacity.
+b. For the purposes of this act, “law enforcement” shall encompass any and all state actors with the power to arrest, as well as members of the National Guard, acting in an official capacity. The term 'officer' can also be used interchangeably with Law Enforcement for this bill.
 
 c. For the purposes of this act, "property owners" shall mean the owner of a property as defined by the [Bureau of Land Management](https://trello.com/b/v2fxXXhn/land-management-database) while they are the premesis of their claimed land. For government buildings, the property owner shall be the highest ranking executive official related to the use of the building.
 
@@ -101,14 +101,31 @@ AUTHORITY OVER PROPERTY
 
 ---
 
-a. Property Owners and the designees thereof are permitted to regulate the driving taking place on property, and may permit abnorbal conduct such as burnouts, and illegal parking. Such vehicles taking part in activities permitted by the property owner are exempt from recieving a citation from law enforcement for doing so. 
+a. Property Owners and the designees thereof are permitted to regulate the driving taking place on the property and may permit abnormal conduct such as burnouts, and illegal parking. Such vehicles taking part in activities permitted by the property owner are exempt from receiving a citation from law enforcement for doing so. 
 
-b. Property Owners and the designees thereof are permitted to remove tresspassed citizens from the property using non-lethal force.
+b. Property Owners and the designees thereof are permitted to remove trespassed citizens from the property using non-lethal force.
 
-c. Property Owners and the designees thereof are permitted to remove and tresspass any citizen from their property for any period of time desired by the property owner.
+c. Property Owners and the designees thereof are permitted to remove and trespass any citizen from their property for any period of time desired by the property owner.
 
 d. Property Owners and the designees thereof reserve the right to restrict the possession of firearms within their property. 
 
 e. Property Owners and the designees thereof reserve the ability to create rules and regulations surrounding the activity on their property as long as they are not discriminatory on the basis of race, gender, nationality, or ethnicity.
 
-f. Property Owners and the designees thereof reserve the ability to request Law Enforcement to leave their property when the officer has no lawful or justifiable reason to be on property.
+f. Property Owners and the designees thereof reserve the ability to request Law Enforcement to leave their property when the officer has no lawful or justifiable reason to be on the property.
+
+
+---
+<div align="center">
+
+## <b>CHAPTER FOUR</b>
+LAW ENFORCEMENT AUTHORITY OVER PROPERTY
+</div>
+
+---
+
+a. Law Enforcement reserves the right to limit access and/or overrule any permissions established in Chapter Three of this Act to privately owned property in the following circumstances:
+- The officer has a reasonable belief that a threat to public safety has occurred, is occurring, or is about to occur.
+- The officer is a member of ESU and is partaking in an active protection operation as defined by the [Executive Security Unit Act 2022](https://forums.stateoffirestone.com/t/executive-security-unit-act-2022/23843)
+- The officer has the authority to be on property given by other legislation in effect.
+
+b. Law Enforcement 
